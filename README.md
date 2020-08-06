@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
+![url](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+#### Here are a few things about me 😁:
 
 - 📱 I’m currently working on mobile apps!
 - 🎓 I have a bachelor's degree in computer engineering as well as software enigneering.
